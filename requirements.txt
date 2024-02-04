@@ -1,0 +1,9 @@
+tensorflow=2.14.0
+tensorflow-datasets=4.9.3
+tensorflow-estimator=2.14.0
+tensorflow-io-gcs-filesystem=0.34.0
+tensorflow-metadata=1.14.0
+keras=2.14.0
+opencv-python=4.8.1
+imutils=0.5.4
+matplotlib=3.7.3
