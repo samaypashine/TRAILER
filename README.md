@@ -22,13 +22,13 @@ This codebases focuses on tracking the ball and stumps with the projection line 
 1. Create a conda environment to run the codebase:
 
    ```bash
-   conda create -n aiCrik python=3.10.13
+   conda create -n cricket python=3.10.13
    ```
 
 2. Activate the conda environment after creation:
 
     ```bash
-   conda activate aiCrik
+   conda activate cricket
    ```
 
 3. Install the dependencies
